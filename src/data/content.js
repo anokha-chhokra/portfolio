@@ -10,7 +10,7 @@ export const navLinks = [
 
 export const contact = {
   name: 'SK Arbaj Ali',
-  title: 'Java Developer · Spring Boot Developer · Backend Developer',
+  title: 'Java Developer · Spring Boot Developer · Backend Developer · Full-Stack Developer',
   email: 'arbajmessiali@outlook.com',
   phone: '+91 7278781198',
   location: 'Kolkata, India',
