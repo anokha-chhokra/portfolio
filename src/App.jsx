@@ -8,6 +8,7 @@ import ScrollProgress from './components/ScrollProgress'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AboutSection from './components/AboutSection'
+import SystemSection from './components/SystemSection'
 
 export default function App(){
   return <>
@@ -16,6 +17,7 @@ export default function App(){
       <main id='top'>
         <Hero />
         <AboutSection />
+        <SystemSection />
       </main>
       <Footer />
   </>;
