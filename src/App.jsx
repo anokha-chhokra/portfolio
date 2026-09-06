@@ -9,6 +9,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AboutSection from './components/AboutSection'
 import SystemSection from './components/SystemSection'
+import ExperienceSection from './components/ExperienceSection'
 
 export default function App(){
   return <>
@@ -18,6 +19,7 @@ export default function App(){
         <Hero />
         <AboutSection />
         <SystemSection />
+        <ExperienceSection />
       </main>
       <Footer />
   </>;
